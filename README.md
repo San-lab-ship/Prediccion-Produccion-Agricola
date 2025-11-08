@@ -17,12 +17,17 @@ El proyecto permite a los empresarios visualizar resultados de manera clara, con
 ---
 
 ## 🛠 Tecnologías Utilizadas
-- **Python 3.x**  
-- **Pandas, NumPy**: manipulación de datos  
-- **Scikit-learn, XGBoost, LightGBM**: modelos de Machine Learning  
-- **PySpark**: procesamiento de grandes volúmenes de datos (si aplica)  
-- **Plotly, Folium**: visualizaciones interactivas y dashboards dinámicos  
-- **Google Colab / Jupyter Notebook**: desarrollo y experimentación  
+- ✅ Python 3.x
+- ✅ Pandas
+- ✅ NumPy
+- ✅ Scikit-learn
+- ✅ XGBoost
+- ✅ LightGBM
+- ✅ PySpark
+- ✅ Plotly
+- ✅ Folium
+- ✅ Google Colab / Jupyter Notebook
+
 
 ---
 
@@ -64,25 +69,47 @@ Para mostrar resultados claros y accionables para empresarios:
 📊 Histograma de Producción Total por Temporada
 
 
+<img width="1404" height="525" alt="newplot (3)" src="https://github.com/user-attachments/assets/05d2e36b-f4bf-4bc4-8c47-901fef45b387" />
 
+<img width="851" height="556" alt="image" src="https://github.com/user-attachments/assets/73d3809c-263b-46b8-8c99-be313d891786" />
 
+<img width="860" height="556" alt="image" src="https://github.com/user-attachments/assets/5d80658e-c8b8-4023-b67f-8da5a6d09347" />
 
+<img width="860" height="586" alt="image" src="https://github.com/user-attachments/assets/8fc4dfde-f395-4791-bbde-961dcf23af1f" />
 
+<img width="860" height="586" alt="image" src="https://github.com/user-attachments/assets/74938f11-6bbe-47e9-8e08-788c5ab482b6" />
 
+<img width="860" height="580" alt="image" src="https://github.com/user-attachments/assets/dddbf9cb-3fe5-4cfa-98d3-f8ca9ee109cd" />
 
+<img width="826" height="556" alt="image" src="https://github.com/user-attachments/assets/9ed362ae-6c85-4a2c-b10a-aa42b24b70e2" />
 
+<img width="861" height="556" alt="image" src="https://github.com/user-attachments/assets/624ddc96-3785-46fc-a653-f1f34b6e0102" />
 
+<img width="861" height="556" alt="image" src="https://github.com/user-attachments/assets/a0d6cdfb-9a99-44d8-848c-4b7e857c5383" />
+
+<img width="889" height="534" alt="image" src="https://github.com/user-attachments/assets/3d9a7be5-27fc-440d-a673-c39c36d2e00f" />
+
+<img width="841" height="556" alt="image" src="https://github.com/user-attachments/assets/69035378-2667-4a24-b81a-447d7f983531" />
 
 ---
 
-## 🚀 Resultados y Conclusiones Empresariales
-- Predicciones confiables de la producción agrícola que permiten **anticipar la cosecha y optimizar logística**.  
-- Métricas en **porcentaje y eficiencia** facilitan la comunicación de resultados con los tomadores de decisiones.  
-- **Hallazgos clave**:
-  - Patrones de producción según clima, fertilización y tipo de suelo.  
-  - Reducción de incertidumbre en la planificación y exportación.  
-  - Optimización de recursos y reducción de pérdidas.  
-- Las visualizaciones interactivas permiten explorar **escenarios hipotéticos**, analizar riesgos y tomar decisiones estratégicas rápidamente.
+## ## 🚀 Resultados y Conclusiones Empresariales
+
+Las gráficas generadas permiten **comparar producción real vs predicha**, identificar tendencias y analizar patrones de rendimiento por región y cultivo.
+
+Métricas como **MAPE (7.88%)**, **SMAPE (7.89%)**, **R² (93.87%)** y **NSE (0.94)** muestran un **modelo altamente preciso y eficiente**, facilitando la comunicación de resultados a empresarios.
+
+**Hallazgos clave derivados de las visualizaciones:**
+
+- La producción varía significativamente según **región y tipo de cultivo** (ver barras y boxplots).  
+- Los errores de predicción son bajos y están distribuidos de manera equilibrada (histograma de errores).  
+- Las tendencias temporales ayudan a **anticipar la cosecha y planificar logística**.  
+- Correlaciones entre variables climáticas y producción identifican **factores clave que afectan el rendimiento**.  
+- Mapas de rendimiento (estáticos) proporcionan una **visión geográfica clara del desempeño por parcela**.  
+- Estas visualizaciones permiten **analizar escenarios, tomar decisiones estratégicas y optimizar recursos**, incluso sin necesidad de dashboards interactivos.
+
+**Impacto Empresarial:**  
+Con este modelo, los empresarios pueden **tomar decisiones informadas sobre fertilización, distribución de recursos y planificación de exportaciones**, anticipando picos y caídas de producción. Al identificar las parcelas y cultivos más productivos y minimizar errores de predicción, es posible **incrementar los ingresos y la rentabilidad en el mediano plazo (6-12 meses)**. Este enfoque permite **priorizar inversiones, reducir pérdidas y optimizar logística**, asegurando que los recursos se utilicen de manera eficiente y rentable.
 
 ---
 
