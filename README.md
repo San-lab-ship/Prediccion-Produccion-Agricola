@@ -77,8 +77,6 @@ Para mostrar resultados claros y accionables para empresarios:
 
 <img width="860" height="586" alt="image" src="https://github.com/user-attachments/assets/8fc4dfde-f395-4791-bbde-961dcf23af1f" />
 
-<img width="860" height="586" alt="image" src="https://github.com/user-attachments/assets/74938f11-6bbe-47e9-8e08-788c5ab482b6" />
-
 <img width="860" height="580" alt="image" src="https://github.com/user-attachments/assets/dddbf9cb-3fe5-4cfa-98d3-f8ca9ee109cd" />
 
 <img width="826" height="556" alt="image" src="https://github.com/user-attachments/assets/9ed362ae-6c85-4a2c-b10a-aa42b24b70e2" />
